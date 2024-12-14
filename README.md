@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bnurkaratag
+- 
+- 👀 I’m interested in Deep Learning
+- 
+- 🌱 I’m currently learning CNN and Pytorch
+- 
+- 📫 How to reach me nurkaratag@gmail.com
