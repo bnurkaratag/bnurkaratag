@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @bnurkaratag
-- 
+- 👋 Hi, I’m Beyza Nur Karatag
 - 👀 I’m interested in Deep Learning
-- 
 - 🌱 I’m currently learning CNN and Pytorch
-- 
 - 📫 How to reach me nurkaratag@gmail.com
