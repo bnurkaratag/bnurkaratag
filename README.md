@@ -20,17 +20,7 @@ My goal is to combine AI and software engineering to build intelligent systems t
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=bnurkaratag&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnurkaratag&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnurkaratag&theme=tokyonight" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/bnurkaratag/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=bnurkaratag" alt="trophy" />
 
 ## GitHub Activity Graph
 
